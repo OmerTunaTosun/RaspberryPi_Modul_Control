@@ -1,2 +1,2 @@
-# RaspberryPi_Modul_Control
-RaspberryPi_Modul_Control_Code
+# RaspberryPi_Module_Control
+RaspberryPi_Module_Control_Code
